@@ -4,7 +4,7 @@
     margin: 0;
 }
 body{
-    background: url('green.jpg') ;
+    background: url('img/green.jpg') ;
     background-size: cover;
     display: flex;
     align-items: center;
